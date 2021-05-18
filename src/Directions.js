@@ -1,16 +1,16 @@
 import React from 'react';
 import Navbar from "./components/Navbar/Navbar"
-import './Biography.css';
+import './Directions.css';
 
-function Biography(){
+function Directions(){
     return(
-        <div className='Biography'>
+        <div className='directions'>
             
             <h1>
-                Biography
+                Setting Directions
             </h1>
         </div>
     );
 }
 
-export default Biography;
+export default Directions;
