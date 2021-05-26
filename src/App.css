@@ -6,6 +6,12 @@
 
 }
 
+
+
+.contents{
+    max-width: 2000px;
+    margin: auto;
+}
 .Jacki{
     float: right;
     padding: 50px;
