@@ -46,11 +46,10 @@ const About = () => (
             including grades PK -12 with a population of just under 350 students.
             </p>
 
-            <p className="par2">While working through the creation of this portfolio, I realized that all of my leadership artifacts 
-                fell into 2 categories of the Ontario Leadership Framework, Building Relationships and Setting Direction. 
-                My first reflection of this had me thinking I was really deficient in being a true leader.  However, as I 
-                continued to reflect I came to realize that a good leader understands that they cannot be great at everything 
-                and there is a need to create a leadership team that compliments and supports one another.
+            <p className="par2">My leadership portfolio is my reflection of the skills I gained through various leadership roles I have held  
+            that make me a successful leader. I have used this process to take time to look back and reflect on my journey to becoming a leader.  
+            To remind myself of the many activities I have developed over the years and to reflect and then look forward to what I can accomplish 
+            nearing the end of my career.
             </p>
 
             <p className="par1">As educators our ultimate goal is student achievement and well-being. As leaders in education we need to be 
