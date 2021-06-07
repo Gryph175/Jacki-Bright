@@ -20,15 +20,20 @@ export const MenuItems = [
         cName: 'nav-links',
     },
     {
-        title: 'More',
-        url: '/more',
+        title: 'Developing the Organization',
+        url: '/develop',
+        cName: 'nav-links',
+    },
+    {
+        title: 'Improving Instructional Program',
+        url: '/improving',
+        cName: 'nav-links',
+    },
+    {
+        title: 'Accountability',
+        url: '/accountability',
         cName: 'nav-links',
     },
 
-    {
-        title: 'Mobile',
-        url: '#',
-        cName: 'nav-links-mobile'
-    }
 
 ]

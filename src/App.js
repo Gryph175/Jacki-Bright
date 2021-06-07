@@ -5,7 +5,9 @@ import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import  Directions from './Directions';
 import Relations from './Relations'
 import Leader from './Leader'
-import More from './More'
+import Develop from './Develop'
+import Improving from './Improving'
+import Accountability from './Accountability'
 import Jacki from './Jacki.jpeg'
 
 function App(){
@@ -20,7 +22,9 @@ function App(){
                     <Route path="/directions" component={Directions}/> 
                     <Route path="/relations" component={Relations}/>
                     <Route path="/leader" component={Leader}/>
-                    <Route path="/more" component={More}/>
+                    <Route path="/develop" component={Develop}/>
+                    <Route path="/improving" component={Improving}/>
+                    <Route path="/accountability" component={Accountability}/>
                 </Switch>
                 
                 
