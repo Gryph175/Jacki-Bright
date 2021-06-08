@@ -28,3 +28,23 @@
     padding: 10px;
     list-style: none;
 }
+
+.Staff{
+    max-width: 400px;
+    float: right;
+}
+
+.Hockey{
+    max-width: 500px;
+    margin: 10px;
+}
+
+.Jays{
+    max-width: 550px;
+    margin: 10px;
+}
+
+.Thomas{
+    max-width: 300px;
+    margin: 10px;
+}
