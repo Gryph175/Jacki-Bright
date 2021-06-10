@@ -8,9 +8,16 @@
 
 .Leader h2{
     text-align: left;
-    font-size: 2.5rem;
+    font-size: 2.20rem;
     margin-left: 10%;
     padding: 30px;
+    display: inline-block;
+}
+
+.Leader h3{
+    text-align: left;
+    font-size: 1.5rem;
+    display: inline-block;
 }
 
 .Leader li{

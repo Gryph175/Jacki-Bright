@@ -3,6 +3,7 @@ import StaffAgenda from './StaffAgenda.png';
 import floorHockey from './FloorHockey.jpeg';
 import jays from './Jays.jpeg';
 import thomas from './thomas.jpeg';
+import Cow from './Cow.JPG'
 import React from 'react';
 
 
@@ -33,6 +34,7 @@ const Relations = () => {
                 <img className="Hockey" src={floorHockey} alt="FloorHockey" />
                 <img className="Jays" src={jays} alt="Bluejays Spirit day" />
                 <img className="Thomas" src={thomas} alt="Thomas outfit" />
+                <img className= "Cow" src={Cow} alt="Cow" />
                 
                 
                 <li className="dot">Continued Love of Learning</li>

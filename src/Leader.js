@@ -24,7 +24,9 @@ function Leader(){
             
             
             <div className="odd">
-                <h2>2000 - Head of Guidance (in addition to the responsibilities listed above)</h2>
+                <h2>2000 - Head of Guidance</h2>
+                <h3>(in addition to the responsibilities listed above)</h3>
+                
 
                 <ul>
                     <li >Provided guidance and instruction for students in their academic and personal lives</li>

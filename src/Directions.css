@@ -1,9 +1,10 @@
 .img_contain {
-    text-align: center;
+    float: right;
+    padding: 20px;
 }
 
 
 .pyp {
-    width: 500px;
+    width: 205px;
 }
 
