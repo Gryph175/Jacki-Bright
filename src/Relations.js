@@ -1,9 +1,7 @@
 import './Relations.css';
 import StaffAgenda from './StaffAgenda.png';
-import floorHockey from './FloorHockey.jpeg';
-import jays from './Jays.jpeg';
-import thomas from './thomas.jpeg';
-import Cow from './Cow.JPG'
+
+import Collage from './BeFunky-collage.jpg'
 import React from 'react';
 
 
@@ -31,10 +29,7 @@ const Relations = () => {
                 <ul>
                 <li className="dot">Participating in School Events and School Life</li>
                 <p className='par'>I do not lead from my office.  I lead by example.  I start every day with morning door duty and greet every student by name as they enter the building.  I also end the day with traffic duty to say good-bye to students as they leave for the day.  I am highly visible in school events including Galas, Fun Fairs, Spirit Days and Student Staff sports.</p>
-                <img className="Hockey" src={floorHockey} alt="FloorHockey" />
-                <img className="Jays" src={jays} alt="Bluejays Spirit day" />
-                <img className="Thomas" src={thomas} alt="Thomas outfit" />
-                <img className= "Cow" src={Cow} alt="Cow" />
+                <img className="Collage" src={Collage} alt="FloorHockey" />
                 <li className="dot">Continued Love of Learning</li>
                 <p className='dot'>Learning never ends and I continue to expand my knowledge through...</p>
                 <p className='dot2'>AQ courses</p>

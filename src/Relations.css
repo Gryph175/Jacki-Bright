@@ -50,22 +50,6 @@
     float: right;
 }
 
-.Hockey{
-    max-width: 500px;
-    margin: 10px;
-}
-
-.Jays{
-    max-width: 550px;
-    margin: 10px;
-}
-
-.Thomas{
-    max-width: 300px;
-    margin: 10px;
-}
-
-.Cow{
-    max-width: 400px;
-    margin: 10px;
+.Collage{
+    width: 600px;
 }

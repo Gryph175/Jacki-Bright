@@ -46,7 +46,7 @@ const About = () => (
             including grades PK -12 with a population of just under 350 students.
             </p>
 
-            <p className="par2">My leadership portfolio is my reflection of the skills I gained through various leadership roles I have held  
+            <p className="par3">My leadership portfolio is my reflection of the skills I gained through various leadership roles I have held  
             that make me a successful leader. I have used this process to take time to look back and reflect on my journey to becoming a leader.  
             To remind myself of the many activities I have developed over the years and to reflect and then look forward to what I can accomplish 
             nearing the end of my career.

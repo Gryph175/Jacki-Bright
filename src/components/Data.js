@@ -15,7 +15,7 @@ export const Data = [
     },
 
     {
-        title: 'Communicate the vision and goals',
+        title: 'Communicate the Vision and Goals',
         contents: 'All of these changes created a large shift for all stakeholders in the school.  Information sharing was key throughout this process.  I updated the Board annually at Board meetings.  Updated and educated parents through information evenings, special events and assemblies.  I communicated the school’s vision and goals with staff during collaborative and individual meetings.',
     },
 ];

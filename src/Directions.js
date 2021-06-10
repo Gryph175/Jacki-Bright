@@ -6,10 +6,11 @@ import PYP from './PYP.png'
 function Directions(){
     return(
         <div className='directions'>
+            
+            <h1 className="banner">Setting Direction</h1>
             <div className="img_contain">
                 <img className="pyp" src={PYP} alt="PYP" />
             </div>
-            <h1 className="banner">Setting Direction</h1>
             
 
 

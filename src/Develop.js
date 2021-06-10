@@ -12,11 +12,11 @@ function Develop(){
                     <li className="dot">Assemblies</li>
                     <p className='par'>I organize assemblies to share and celebrate student and staff successes.  Included in every assembly are class presentations. Student action, school updates and a mindful minute.  Parents are welcome to all of our assemblies.</p>
                     <li className="dot">Policies & Schedules keep expectations clear and allow time for collaboration during the school day</li>
-                    <p className='par'>Along with the Head of School annual review and update of the Staff Handbook <br/>
-                        Creation of the Language, Assessment and PYP Policies <br />
-                        Yard Duty Policy and Schedule - create schedule to allow for common grade partner duties to allow for collaboration during the school day <br />
-                        Assembly Policy and schedule <br />
-                        Field Trip Policies and Co-ordination of field trips - divisional trips for a full day</p>
+                    <li className="par2">Along with the Head of School annual review and update of the Staff Handbook </li>
+                    <li className="par2">Creation of the Language, Assessment and PYP Policies </li>
+                    <li className="par2">Yard Duty Policy and Schedule - create schedule to allow for common grade partner duties to allow for collaboration during the school day </li>
+                    <li className="par2">Assembly Policy and schedule</li>
+                    <li className="par2">Field Trip Policies and Co-ordination of field trips - divisional trips for a full day</li>
                 </ul>
             </div>
 

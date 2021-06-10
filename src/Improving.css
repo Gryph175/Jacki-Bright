@@ -28,3 +28,25 @@
     padding: 10px;
     list-style: none;
 }
+
+.Class{
+    float: right;
+    width: 350px;
+    margin-left: 25px;
+    margin-right: 140px;
+    
+}
+
+.Prac{
+    float: right;
+    width: 300px;
+    
+}
+
+.par-improve{
+    color: rgb(147, 46, 241);
+    font-size: 20px;
+    padding: 10px;
+    list-style: none;
+    width: 700px;
+}
