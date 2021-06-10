@@ -29,6 +29,22 @@
     list-style: none;
 }
 
+.par2{
+    color: rgb(147, 46, 241);
+    font-size: 20px;
+    padding: 10px;
+    list-style:circle;
+}
+
+.dot2{
+    color: black;
+    font-size: 30px;
+    padding: 20px;
+    list-style: none;
+    text-decoration: underline;
+    
+}
+
 .Staff{
     max-width: 400px;
     float: right;

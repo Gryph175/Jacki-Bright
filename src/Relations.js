@@ -35,11 +35,45 @@ const Relations = () => {
                 <img className="Jays" src={jays} alt="Bluejays Spirit day" />
                 <img className="Thomas" src={thomas} alt="Thomas outfit" />
                 <img className= "Cow" src={Cow} alt="Cow" />
-                
-                
                 <li className="dot">Continued Love of Learning</li>
-                <p className='dot'>Learning never ends and I continue to expand my knowledge.</p>
-                <p className='par'>AQ courses <br />IB Workshops/Conferences <br />CIS Workshops <br />Coaching 2019 <br />Unconference 2018</p>
+                <p className='dot'>Learning never ends and I continue to expand my knowledge through...</p>
+                <p className='dot2'>AQ courses</p>
+                <li className="par2">Senior Division, Mathematics / August 1995</li>
+                <li className="par2">Guidance, Part 1 / July 2000</li>
+                <li className="par2">Guidance, Part 2 / April 2001</li>
+                <li className="par2">Guidance, Specialist / April 2002</li>
+                <li className="par2">Primary Division / December 2009</li>
+                <li className="par2">Primary Education, Part 1 / March 2010</li>
+                <li className="par2">Primary Education, Part 2 / December 2010</li>
+                <li className="par2">Primary Education, Specialist / April 2011</li>
+                <li className="par2">Principal's Qualification, Part 1 / October 2019</li>
+                <p className='dot2'>IB Workshops</p>
+                <li className="par2">Making the PYP Happen, July 2007</li>
+                <li className="par2">Developing a POI, June 25-26, 2008</li>
+                <li className="par2">IB Community Theme, TYS, Oct. 22/08</li>
+                <li className="par2">Inquiry in the PYP, level 2, Oct.2010</li>
+                <li className="par2">Pedagogical Leadership 2, August 2010</li>
+                <li className="par2">Developing a CI & L of I (Maxine Bone), June 21/11</li>
+                <li className="par2"> Assessment in the PYP, Level 2,July 2011</li>
+                <li className="par2">IBSO PD, Oct.26, 2011</li>
+                <li className="par2">Teaching Language through Inquiry, May 19, 2012</li>
+                <li className="par2">Building International Mindedness into the Curriculum, Oct.16, 2012</li>
+                <li className="par2">Concept Based Teaching, Nov. 8, 2013, MacLachlan College</li>
+                <p className='dot2'>Other Workshops</p>
+                <li className="par2">Barbara Coloroso, January 2005</li>
+                <li className="par2">Connected Math, February 2006</li>
+                <li className="par2">Lyn Erikson, January 2008</li>
+                <li className="par2">Inquiry Based Teaching, February 12, 2010</li>
+                <li className="par2">Teaching ELL, October 7, 2011</li>
+                <li className="par2">IT Workshop - MPAC and Smart Board Features (Sept 2012)</li>
+                <li className="par2">Curriculum Leaders Workshop, October 2012</li>
+                <li className="par2">Curriculum Leaders Workshop, October 2013</li>
+                <li className="par2">Assessment through “Growing Success”, continuous from 2011-2013</li>
+                <li className="par2">ReBoot with Wake Up Kate Mindfulness training workshop, Dec. 17th, 2015</li>
+                <li className="par2">CIS Unconference January 28th, 2019</li>
+                
+
+
                 </ul>
             </div>
             
