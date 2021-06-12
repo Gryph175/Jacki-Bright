@@ -35,7 +35,7 @@ function Develop(){
                     <li className="dot">Kawenni:io/Gaweni:yo School</li>
                     <img className="Kaw" src={Kaw} alt="Kaw" />
                     <p className='par'>Kawenni:io/Gaweni:yo School is a private Mohawk and Cayuga immersion school that I connected with and since 2017 visit their school with a group of grade 5 students from MacLachlan and the following year a group of students from Kawenni:io/Gaweni:yo visit Mac. Students share with one another their own culture and it's beliefs and traditions.</p>
-                    <li className="dot"><a href="https://maclachlanca-my.sharepoint.com/:p:/g/personal/jbright_maclachlan_ca/Edq14AOKPsFPszHCwg80pYgBzZuOkn9nv3eIedqFY0Z8bg?rtime=SF9fK88t2Ug">IB Conference of Americas</a></li>
+                    <li className="dot">IB Conference of Americas</li>
                     <p className='par'>Attending the annual IB Conference of Americas has been valuable PD and I learned a great deal through sharing of best practices.  In 2015 I was a presenter at the IB Conference of Americas in Chicago presenting on Active Learning</p>
                 </ul>
             </div>

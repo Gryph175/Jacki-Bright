@@ -31,13 +31,12 @@
 
 .Class{
     float: right;
-    width: 250px;
+    width: 510px;
     margin-top: 10px;
 }
 
 .Prac{
-    float: right;
-    width: 250px;
+    width: 500px;
     margin-bottom: 0;
     padding: 0;
 }
