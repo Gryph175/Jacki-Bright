@@ -29,10 +29,17 @@
     list-style: none;
 }
 
-.par2{
+.par-Kerr {
     color: rgb(147, 46, 241);
     font-size: 20px;
     padding: 10px;
+    max-width: 660px;
+    list-style: none;
+}
+
+.par2{
+    color: rgb(147, 46, 241);
+    font-size: 20px;
     list-style:circle;
 }
 
@@ -52,4 +59,5 @@
 
 .Collage{
     width: 600px;
+    float: right;
 }

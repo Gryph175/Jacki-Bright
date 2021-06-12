@@ -1,4 +1,7 @@
 import React from 'react';
+import Kerr from './Kerr.jpeg'
+import Kaw from './Kaw.jpeg'
+import Tra from './tra.jpg'
 
 
 function Develop(){
@@ -24,12 +27,15 @@ function Develop(){
             <div className='container'>
                 <ul>
                     <li className="dot">Kerr Street Mission</li>
-                    <p className='par'>for many years the school has organized food drives throughout the year and a staff member delivers the goods collected until a student asked my a question.  "Ms. Bright, what happens to all the things we bring in to collect house points?".  That sparked me to develop a relationship between the students at Mac and the Kerr Street Mission, where we bring the collected goods.  Now during one week in the school year, a homeroom class collects goods that the Mission needs at that time and the students deliver these goods.  They have a tour of the facility and listen to the reasons why people in the community need their help and how their goods are used. Students sort their goods and help organize the store before their visit is over.  For most students it is their first introduction ways in which they can volunteer.</p>
+                    <img className="Kerr" src={Kerr} alt="Kerr" />
+                    <p className='par-Kerr'>for many years the school has organized food drives throughout the year and a staff member delivers the goods collected until a student asked my a question.  "Ms. Bright, what happens to all the things we bring in to collect house points?".  That sparked me to develop a relationship between the students at Mac and the Kerr Street Mission, where we bring the collected goods.  Now during one week in the school year, a homeroom class collects goods that the Mission needs at that time and the students deliver these goods.  They have a tour of the facility and listen to the reasons why people in the community need their help and how their goods are used. Students sort their goods and help organize the store before their visit is over.  For most students it is their first introduction ways in which they can volunteer.</p>
+                    <img className="Tra" src={Tra} alt="Tra" />
                     <li className="dot">Trafalgar Lodge</li>
                     <p className='par'>A senior citizens home down the street from the school.  Planning themed days for students to walk down to the home and sing for the seniors and then spend time either one on one or in small groups talking with them.  Students come prepared with questions to ask and the seniors love to have someone to tell their story to.  It's a win-win!</p>
                     <li className="dot">Kawenni:io/Gaweni:yo School</li>
+                    <img className="Kaw" src={Kaw} alt="Kaw" />
                     <p className='par'>Kawenni:io/Gaweni:yo School is a private Mohawk and Cayuga immersion school that I connected with and since 2017 visit their school with a group of grade 5 students from MacLachlan and the following year a group of students from Kawenni:io/Gaweni:yo visit Mac. Students share with one another their own culture and it's beliefs and traditions.</p>
-                    <li className="dot">IB Conference of Americas</li>
+                    <li className="dot"><a href="https://maclachlanca-my.sharepoint.com/:p:/g/personal/jbright_maclachlan_ca/Edq14AOKPsFPszHCwg80pYgBzZuOkn9nv3eIedqFY0Z8bg?rtime=SF9fK88t2Ug">IB Conference of Americas</a></li>
                     <p className='par'>Attending the annual IB Conference of Americas has been valuable PD and I learned a great deal through sharing of best practices.  In 2015 I was a presenter at the IB Conference of Americas in Chicago presenting on Active Learning</p>
                 </ul>
             </div>

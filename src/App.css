@@ -18,6 +18,25 @@
     width: 40rem;
 }
 
+.Kerr{
+    float: right;
+    width: 475px;
+    border-radius: 20px;
+
+}
+.Kaw{
+    float: right;
+    width: 200px;
+    border-radius: 20px;
+}
+
+.Tra{
+    width: 300px;
+    float: right;
+    border-radius: 20px;
+    margin-bottom: 25px;
+}
+
 
 
 .par1{
